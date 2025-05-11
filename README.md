@@ -1,4 +1,4 @@
-# Manajemen Basis Data
+# Manajemen Database
 <hr>
 
 <p> Achmad Ali Akbar
