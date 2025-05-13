@@ -2,9 +2,9 @@
   "_id": {
     "$oid": "68234fb91127847aa0cdcef9"
   },
-  "nim": "D0222320123",
-  "nama": "Ahmad Ali Akbar",
-  "angkatan": 2021,
+  "nim": "D0222320",
+  "nama": "Achmad Ali Akbar",
+  "angkatan": 2022,
   "jurusan": "Informatika",
-  "email": "ahmad.ali@example.com"
+  "email": "ahmadaliakbar203@gmail.com"
 }]
