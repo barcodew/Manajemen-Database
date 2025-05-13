@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68234ed61127847aa0cdcee7"
+  },
+  "nama": "Basis Data",
+  "kode": "IF203",
+  "sks": 3,
+  "nilai": "A"
+},
+{
+  "_id": {
+    "$oid": "68234f701127847aa0cdcef6"
+  },
+  "nama": "Pemrograman Web",
+  "kode": "IF204",
+  "sks": 3,
+  "nilai": "A-"
+}]
