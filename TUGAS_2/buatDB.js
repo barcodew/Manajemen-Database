@@ -1,13 +1,12 @@
-require('./koneksi');
-const Matakuliah = require('./model/Matakuliah');
+require("./koneksi");
+const Matakuliah = require("./model/Matakuliah");
 
 async function buatDatabaseDanCollection() {
-  // Masukkan 1 data agar collection 'MK' benar-benar tercipta
   const matkul = new Matakuliah({
-    kode: 'IF100',
-    nama: 'Pengantar Informatika',
+    kode: "IF100",
+    nama: "Pengantar Informatika",
     sks: 2,
-    dosen: 'Ismail Majid'
+    dosen: "Ismail Majid",
   });
 
   try {
